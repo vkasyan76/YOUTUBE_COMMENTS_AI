@@ -1,0 +1,602 @@
+[
+  {
+    "kind": "youtube#commentThread",
+    "etag": "pWBIf_SJ_QLJRF83Y4YP_bcNHas",
+    "id": "UgwPk21AZMmciIEPE854AaABAg",
+    "snippet": {
+      "videoId": "JTxsNm9IdYU",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "_yqIgzkxyH-vjf8iQORiBZr-JYc",
+        "id": "UgwPk21AZMmciIEPE854AaABAg",
+        "snippet": {
+          "videoId": "JTxsNm9IdYU",
+          "textDisplay": "⭐ Try the OpenAI Template - Starter Kit I&#39;ve made (by Adrian (me!!!))⭐\r<br><a href=\"https://enhanceui.gumroad.com/l/chatgpt-starter-template\">https://enhanceui.gumroad.com/l/chatgpt-starter-template</a> \r<br>This is new and ready for those looking to kickstart their own app or website using the OpenAI GPT models. I&#39;ve built it on MERN it should save you over 100 hours if you want to build or test your own ideas! This also supports the channel if you have found these videos of benefit!",
+          "textOriginal": "⭐ Try the OpenAI Template - Starter Kit I've made (by Adrian (me!!!))⭐\r\nhttps://enhanceui.gumroad.com/l/chatgpt-starter-template \r\nThis is new and ready for those looking to kickstart their own app or website using the OpenAI GPT models. I've built it on MERN it should save you over 100 hours if you want to build or test your own ideas! This also supports the channel if you have found these videos of benefit!",
+          "authorDisplayName": "Adrian Twarog",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/SBra9X0UPsNzyDjGcvN4iw2pb5Qku_3qFd1figMt48J7rUdU8mJYHPHAx0t6d0E6wLcUU__nZjg=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ",
+          "authorChannelId": { "value": "UCvM5YYWwfLwpcQgbRr68JLQ" },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 187,
+          "publishedAt": "2022-12-21T07:40:30Z",
+          "updatedAt": "2022-12-21T07:40:30Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 39,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "f3ymvbWagKj8D3gBZyM4kMSsuSg",
+    "id": "Ugyaxl3Ccc5yxSjBiSR4AaABAg",
+    "snippet": {
+      "videoId": "JTxsNm9IdYU",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "w3VfaSkoaEEVcmzn1pk7-jRs720",
+        "id": "Ugyaxl3Ccc5yxSjBiSR4AaABAg",
+        "snippet": {
+          "videoId": "JTxsNm9IdYU",
+          "textDisplay": "Adrian, just curious what tool or software did you use for this presentation? I like the way you are able to put pointers, notes, etc. real time that disappears right after. Anyway I have been hearing about chatGPT and I am prolly one of those adamant about it but decided to give it a check and your video is the first one I saw which is great and didn&#39;t have a hard time looking for a great overview tutorial for chatGPT. great job.",
+          "textOriginal": "Adrian, just curious what tool or software did you use for this presentation? I like the way you are able to put pointers, notes, etc. real time that disappears right after. Anyway I have been hearing about chatGPT and I am prolly one of those adamant about it but decided to give it a check and your video is the first one I saw which is great and didn't have a hard time looking for a great overview tutorial for chatGPT. great job.",
+          "authorDisplayName": "Mommy Q and the Atoms",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqNwiF2xrTcVkx5AjBy_dPI_y67iKAfmDmAsK0JU7klPwWFiW-MLLHBcKVCcbcWg=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCayF3NIZ-Jpw4ZVKOcmOIng",
+          "authorChannelId": { "value": "UCayF3NIZ-Jpw4ZVKOcmOIng" },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2023-04-21T20:10:02Z",
+          "updatedAt": "2023-04-21T20:10:02Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "sfU2EHd_guvsZXCHDmBdhiBdwbY",
+    "id": "UgzABoMB1DBQ74TxWn54AaABAg",
+    "snippet": {
+      "videoId": "JTxsNm9IdYU",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "T0ECQfXIbAereKZJuipCTrI6Uhg",
+        "id": "UgzABoMB1DBQ74TxWn54AaABAg",
+        "snippet": {
+          "videoId": "JTxsNm9IdYU",
+          "textDisplay": "<a href=\"https://www.youtube.com/watch?v=JTxsNm9IdYU&amp;t=01m11s\">01:11</a><br><a href=\"https://www.youtube.com/watch?v=JTxsNm9IdYU&amp;t=14m05s\">14:05</a><br><a href=\"https://www.youtube.com/watch?v=JTxsNm9IdYU&amp;t=18m52s\">18:52</a><br><a href=\"https://www.youtube.com/watch?v=JTxsNm9IdYU&amp;t=19m31s\">19:31</a>",
+          "textOriginal": "01:11\n14:05\n18:52\n19:31",
+          "authorDisplayName": "tppParmon",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/y3MmDD03h6hWfWEkoEnS4vBSK1W7-HTEdMEYP5DyPRuOFvopI5nR7ULctCkdznPAu9FAGqzVUQ=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCLN6H5bp7oLZxTq0FUTZMGQ",
+          "authorChannelId": { "value": "UCLN6H5bp7oLZxTq0FUTZMGQ" },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2023-04-19T17:50:07Z",
+          "updatedAt": "2023-04-19T17:50:07Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "ljpcYkTunltr0vYAVf2Wjo5YfX0",
+    "id": "UgwrpMmaEXxye_51MYx4AaABAg",
+    "snippet": {
+      "videoId": "JTxsNm9IdYU",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "d7MoyX5WsfC6UVtWj9lj4wzGVU0",
+        "id": "UgwrpMmaEXxye_51MYx4AaABAg",
+        "snippet": {
+          "videoId": "JTxsNm9IdYU",
+          "textDisplay": "<a href=\"about:invalid#zCSafez\"></a>",
+          "textOriginal": "",
+          "authorDisplayName": "Ali Ghahramani",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqPdLnnrKUNscepEdsVXFfaCnJAZ1v9rCsn4Jg=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCPWSG8ahkh8vgQ7ZoUMzokQ",
+          "authorChannelId": { "value": "UCPWSG8ahkh8vgQ7ZoUMzokQ" },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2023-04-18T16:03:30Z",
+          "updatedAt": "2023-04-18T16:03:30Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "OSaeTOgGP--fcTkOzh61t2l7DPo",
+    "id": "UgyiBW7iRhD7-yE5WkZ4AaABAg",
+    "snippet": {
+      "videoId": "JTxsNm9IdYU",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "OFazVbbmS1hbqKgvh-O3d78rqN8",
+        "id": "UgyiBW7iRhD7-yE5WkZ4AaABAg",
+        "snippet": {
+          "videoId": "JTxsNm9IdYU",
+          "textDisplay": "Hey i&#39;am camerounian in Africa it seem like Chat GPT is no yet ready in my country",
+          "textOriginal": "Hey i'am camerounian in Africa it seem like Chat GPT is no yet ready in my country",
+          "authorDisplayName": "HT Motivation",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqN3dAs202OGlx6N2Txj9wL_Uff-6TcK0H1G0FGT8Q=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCTs1i9VlQ06VMCPcAzYO3RQ",
+          "authorChannelId": { "value": "UCTs1i9VlQ06VMCPcAzYO3RQ" },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2023-04-18T14:11:36Z",
+          "updatedAt": "2023-04-18T14:11:36Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "VXIwQHub6_b1_im887eDNm1l_UY",
+    "id": "UgxH6S8Sxkig5OXoYSF4AaABAg",
+    "snippet": {
+      "videoId": "JTxsNm9IdYU",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "F9zGdbqih5E3lhy6maoIXoVG1Aw",
+        "id": "UgxH6S8Sxkig5OXoYSF4AaABAg",
+        "snippet": {
+          "videoId": "JTxsNm9IdYU",
+          "textDisplay": "Chat GBT won&#39;t let me into my account because it insists my phone number is a virtual VoiP number which it isn&#39;t..what can I do?",
+          "textOriginal": "Chat GBT won't let me into my account because it insists my phone number is a virtual VoiP number which it isn't..what can I do?",
+          "authorDisplayName": "David Gibson",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqM7Kqvg5xEb5XgSTUO7KKAjh3ikTpP6AyK98A=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCPdP2sVNSB95gA4E2qmRU5A",
+          "authorChannelId": { "value": "UCPdP2sVNSB95gA4E2qmRU5A" },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2023-04-18T04:19:52Z",
+          "updatedAt": "2023-04-18T04:19:52Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "g5zz9Od-hFeX_VrWw1HHRULN-II",
+    "id": "UgwTnLpYGgiv5t3kJJd4AaABAg",
+    "snippet": {
+      "videoId": "JTxsNm9IdYU",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "I55eFD9cRXnLD23UTQEEV8AkOg4",
+        "id": "UgwTnLpYGgiv5t3kJJd4AaABAg",
+        "snippet": {
+          "videoId": "JTxsNm9IdYU",
+          "textDisplay": "Played around with it. To me its just a faster Google search engine with all the answers in one spot. It can&#39;t give real time data so besides working on the next greatest novel im not sure what the benefits it gives at this point. Other than having all internet data housed in one spot.",
+          "textOriginal": "Played around with it. To me its just a faster Google search engine with all the answers in one spot. It can't give real time data so besides working on the next greatest novel im not sure what the benefits it gives at this point. Other than having all internet data housed in one spot.",
+          "authorDisplayName": "Mark Ellis",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqMVVZRzvRcGCfN6ViiOMkOu9ZETnlDYYBUZQTsYfg=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCx3ZrxGrOR8jV-CkWVdVKkg",
+          "authorChannelId": { "value": "UCx3ZrxGrOR8jV-CkWVdVKkg" },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2023-04-17T18:25:28Z",
+          "updatedAt": "2023-04-17T18:25:57Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "scNu-qTAuoQhJOq4hnnsLukQgVQ",
+    "id": "Ugyr3VbizAVG-2TLfLJ4AaABAg",
+    "snippet": {
+      "videoId": "JTxsNm9IdYU",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "hVikVLvJpPkU86-jW3g4oIMeEH4",
+        "id": "Ugyr3VbizAVG-2TLfLJ4AaABAg",
+        "snippet": {
+          "videoId": "JTxsNm9IdYU",
+          "textDisplay": "how to benefit from chat in work as IT helpdesk",
+          "textOriginal": "how to benefit from chat in work as IT helpdesk",
+          "authorDisplayName": "Ex Muslim",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqNIPsFP4QianA4VovCiVF2dpWRovoUGpxK_as3raprZwyX9ozq8hjOEQlxUYoTX=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCPn118QxRvGiB-v3rZ4sWCQ",
+          "authorChannelId": { "value": "UCPn118QxRvGiB-v3rZ4sWCQ" },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2023-04-17T02:06:23Z",
+          "updatedAt": "2023-04-17T02:06:23Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "-cTY307otKtDUg4PO7gfkNBoudA",
+    "id": "UgxIggauN_J_FggADVV4AaABAg",
+    "snippet": {
+      "videoId": "JTxsNm9IdYU",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "xyUQgyCAJZU9P8fNHG1AjHWAiVE",
+        "id": "UgxIggauN_J_FggADVV4AaABAg",
+        "snippet": {
+          "videoId": "JTxsNm9IdYU",
+          "textDisplay": "Wonderful job sir!",
+          "textOriginal": "Wonderful job sir!",
+          "authorDisplayName": "Kibe samuel",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/nDXIc0iBzMTrzlQ4cIM-jHxUlGgNkO6MG95XKtbJyNZug-OUOKmH2fUQIv_a_xLD4cjsndVtAA=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCgSHDZHAc_GVKPqToP7lSOg",
+          "authorChannelId": { "value": "UCgSHDZHAc_GVKPqToP7lSOg" },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2023-04-15T00:37:10Z",
+          "updatedAt": "2023-04-15T00:37:10Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "nssJ1rneIikBmkzGcbSm5hgraBo",
+    "id": "UgwYYQzsYev_CXsCuNd4AaABAg",
+    "snippet": {
+      "videoId": "JTxsNm9IdYU",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "uVDtS_118c8dF3GWCEcx4IFPK5E",
+        "id": "UgwYYQzsYev_CXsCuNd4AaABAg",
+        "snippet": {
+          "videoId": "JTxsNm9IdYU",
+          "textDisplay": "Amazing video I appreciate that you did this topic and is very helpful for a beginner.",
+          "textOriginal": "Amazing video I appreciate that you did this topic and is very helpful for a beginner.",
+          "authorDisplayName": "Antonio Matos",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqN6abUa3hslwyDvzr9GlBGRzJTCZUqwsgFhYF7FLQ=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCTzXDeVd5Xiuf-qVbQUTXWA",
+          "authorChannelId": { "value": "UCTzXDeVd5Xiuf-qVbQUTXWA" },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2023-04-14T22:57:28Z",
+          "updatedAt": "2023-04-14T22:57:28Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "EVZGoCQgwXUmNpI_YWlGPOtmJY4",
+    "id": "Ugzwi7BRHxQsRvPtuJt4AaABAg",
+    "snippet": {
+      "videoId": "JTxsNm9IdYU",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "H_zAsimHRYAxk5tTVcL7Z7Kq_kU",
+        "id": "Ugzwi7BRHxQsRvPtuJt4AaABAg",
+        "snippet": {
+          "videoId": "JTxsNm9IdYU",
+          "textDisplay": "How can I draw on the screen while recording like in this video?",
+          "textOriginal": "How can I draw on the screen while recording like in this video?",
+          "authorDisplayName": "Stefani Vinikov",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqMMHJ2glxdyr0q_NB9yYKvLuFn0Ai78FKm1Bo-b2kE=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC3Aa0aK8CfAj2ufqCYPL5hA",
+          "authorChannelId": { "value": "UC3Aa0aK8CfAj2ufqCYPL5hA" },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2023-04-12T14:05:21Z",
+          "updatedAt": "2023-04-12T14:05:21Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "s4uHnGgp1_OmUGj9AIPvLUZFqj8",
+    "id": "Ugwb8XLywxW34re56vd4AaABAg",
+    "snippet": {
+      "videoId": "JTxsNm9IdYU",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "xwf-eWcQBarJk6kZ2-r8wV2k1zk",
+        "id": "Ugwb8XLywxW34re56vd4AaABAg",
+        "snippet": {
+          "videoId": "JTxsNm9IdYU",
+          "textDisplay": "It&#39;s high time AI Solidifies with blockchain and I guess that is the mission CGPT AI-BLOCKCHAIN is bent on achieving. I did my DD after I saw it appear on MEXC and I I saw it has the feats and tech to amass adoption and a lot of utilities from its platform alone to ride blockchain to a higher level.",
+          "textOriginal": "It's high time AI Solidifies with blockchain and I guess that is the mission CGPT AI-BLOCKCHAIN is bent on achieving. I did my DD after I saw it appear on MEXC and I I saw it has the feats and tech to amass adoption and a lot of utilities from its platform alone to ride blockchain to a higher level.",
+          "authorDisplayName": "UN. CHRIST",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqNq5oB4ZPuSOQ-ALmscYP4BzIpGQiCIzo85jckM=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCFHqwFHpDtAcwU3V4tEQhfQ",
+          "authorChannelId": { "value": "UCFHqwFHpDtAcwU3V4tEQhfQ" },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2023-04-11T11:40:01Z",
+          "updatedAt": "2023-04-11T11:40:01Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "ZqbjfM8IPqYRPbXQvm5h7DVshq8",
+    "id": "UgwexMTftPXV50bt2KV4AaABAg",
+    "snippet": {
+      "videoId": "JTxsNm9IdYU",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "bfU9wPyp0NRjMbpmJizMlq9tTJU",
+        "id": "UgwexMTftPXV50bt2KV4AaABAg",
+        "snippet": {
+          "videoId": "JTxsNm9IdYU",
+          "textDisplay": "Chat GPT is a Democrate propaganda tool, DO NOT USE IT! I told you 1st!!",
+          "textOriginal": "Chat GPT is a Democrate propaganda tool, DO NOT USE IT! I told you 1st!!",
+          "authorDisplayName": "AnotherOne",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqOL4ADoQoq6eCMC25l3aJtg1ZwImx4B04xhJa-_xqiE2xNrPoK-AFFMK6h8SsBH=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC789pq1VCdd0OufG5SH4FdA",
+          "authorChannelId": { "value": "UC789pq1VCdd0OufG5SH4FdA" },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2023-04-11T00:14:27Z",
+          "updatedAt": "2023-04-11T00:14:27Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "Dv_DKx8rYTu0l9QhscycAgdU2Mc",
+    "id": "UgwMdW-5M1zuksA3Cl14AaABAg",
+    "snippet": {
+      "videoId": "JTxsNm9IdYU",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "hmG9RWrWxjo_9CSsllq5198NKy4",
+        "id": "UgwMdW-5M1zuksA3Cl14AaABAg",
+        "snippet": {
+          "videoId": "JTxsNm9IdYU",
+          "textDisplay": "It is very limited and often gives bogus answers about novel, historical figures etc. One has to get a 3rd part software to be able to get a chapter of a book loaded to analyze. I tried the trick of loading text in parts, but that only works sometimes and other times it totally ignores the early command to wait until al parts are loaded and starts analyzing anyway, or worse, it starts making up its own next part. It has a very very long way to go",
+          "textOriginal": "It is very limited and often gives bogus answers about novel, historical figures etc. One has to get a 3rd part software to be able to get a chapter of a book loaded to analyze. I tried the trick of loading text in parts, but that only works sometimes and other times it totally ignores the early command to wait until al parts are loaded and starts analyzing anyway, or worse, it starts making up its own next part. It has a very very long way to go",
+          "authorDisplayName": "The Empty Atom",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/JzBc1iJNhx8BYeyfsZsk8wghegIqeiSkf6lQ7NdGHcFIVflM8qmd31ipN1tvTYm_6qCUv9Mlezo=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCFtrDxmjuuxw0zoFZ8kjefQ",
+          "authorChannelId": { "value": "UCFtrDxmjuuxw0zoFZ8kjefQ" },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2023-04-07T03:19:05Z",
+          "updatedAt": "2023-04-07T03:19:05Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "WfsdmZZ5QelbNwt7cWbPozozdO4",
+    "id": "Ugz1HrOeglpByZ5fRGl4AaABAg",
+    "snippet": {
+      "videoId": "JTxsNm9IdYU",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "q5gW87JY1oyIBadx1PkjavQaWtg",
+        "id": "Ugz1HrOeglpByZ5fRGl4AaABAg",
+        "snippet": {
+          "videoId": "JTxsNm9IdYU",
+          "textDisplay": "Hiya - Wondering if you could assist  …. Is this Adrian Twarog? I have an “idea” for a web app that needs to be integrated with Chat GPT AI and I therefore need a developer to assist in the execution/creation of it. Not sure if you develop apps yourself, or if perhaps you could refer me to a “developer” who has experience in developing Chat GPT AI mobile apps and web sites. Thanks in advance.",
+          "textOriginal": "Hiya - Wondering if you could assist  …. Is this Adrian Twarog? I have an “idea” for a web app that needs to be integrated with Chat GPT AI and I therefore need a developer to assist in the execution/creation of it. Not sure if you develop apps yourself, or if perhaps you could refer me to a “developer” who has experience in developing Chat GPT AI mobile apps and web sites. Thanks in advance.",
+          "authorDisplayName": "Wayne Gillis",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqNZLjvShAvvCPWbcCO89m5ycivdGDtopBdQig=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCP4LfaGKNHENafktHy0ngGQ",
+          "authorChannelId": { "value": "UCP4LfaGKNHENafktHy0ngGQ" },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2023-04-05T20:17:20Z",
+          "updatedAt": "2023-04-05T20:17:20Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "wuJBJ2oem2Z4FyhOLqDCDRY2K4c",
+    "id": "UgzP6FRnvPJY4lX2FzF4AaABAg",
+    "snippet": {
+      "videoId": "JTxsNm9IdYU",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "rvPRRB6AyTuI3ymvLXlnh8k8G-Q",
+        "id": "UgzP6FRnvPJY4lX2FzF4AaABAg",
+        "snippet": {
+          "videoId": "JTxsNm9IdYU",
+          "textDisplay": "The tutorial is so impressive. I‘m wondering that if you are open for corporation？：）",
+          "textOriginal": "The tutorial is so impressive. I‘m wondering that if you are open for corporation？：）",
+          "authorDisplayName": "yee Zhao",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqOfCMJp15fNNhOfaUrgJo2MY6u1GmyBIvL6GA=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCttaCe3DrP0U-QF7cbkHxuQ",
+          "authorChannelId": { "value": "UCttaCe3DrP0U-QF7cbkHxuQ" },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2023-04-05T12:11:09Z",
+          "updatedAt": "2023-04-05T12:11:09Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "bDU4eig7jcNyhp6_3Q2u-Rh9sVI",
+    "id": "Ugw9r0_4HUWOZzYvI6p4AaABAg",
+    "snippet": {
+      "videoId": "JTxsNm9IdYU",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "tcPBBG9u8ruxT_QiQG1cTni7R8c",
+        "id": "Ugw9r0_4HUWOZzYvI6p4AaABAg",
+        "snippet": {
+          "videoId": "JTxsNm9IdYU",
+          "textDisplay": "Awesome job, thanks!",
+          "textOriginal": "Awesome job, thanks!",
+          "authorDisplayName": "Irina Delgado",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqOdrH6-HDdbo1vlKaDi-AYc198pc6mXmeeFmpbikfY=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC5lb1f23jdScXVMrbu0bk1A",
+          "authorChannelId": { "value": "UC5lb1f23jdScXVMrbu0bk1A" },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2023-04-04T08:35:38Z",
+          "updatedAt": "2023-04-04T08:35:38Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "cQf4FPkEy4C1l7zLdvxSjgjA5Tk",
+    "id": "Ugz1vSXUNn3p7jF-aKR4AaABAg",
+    "snippet": {
+      "videoId": "JTxsNm9IdYU",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "uVDzc256yxUvR91VV-u-ZIvOcRg",
+        "id": "Ugz1vSXUNn3p7jF-aKR4AaABAg",
+        "snippet": {
+          "videoId": "JTxsNm9IdYU",
+          "textDisplay": "There is a lot of excitement about ChatGPT and other AI and how smart they are.  We are being told about how they can pass all kinds of college and professional exams. <br><br>Be aware that they sometimes give the wrong answer. If AI is given the power to control things, anything, the results can be disastrous. Do not let it happen unless significant improvements are made. <br><br>I asked ChatGPT to do this:<br><br>What is the maximum axial load on a 2” by 4” tube steel with a 1/8” wall thickness ignoring buckling?<br><br>It calculated the area to be 7.875 square inches where the correct answer is 1.5 square inches. <br><br>This resulted in an a calculated maximum axial load of 170,100 pounds where the answer should be more like 32,400 pounds. The ChatGPT answer is off by 525%. <br><br>Obviously, if AI was making decision and it can’t make calculations at this level, people and the environment and property might be severely harmed before we know that errors have been made.",
+          "textOriginal": "There is a lot of excitement about ChatGPT and other AI and how smart they are.  We are being told about how they can pass all kinds of college and professional exams. \n\nBe aware that they sometimes give the wrong answer. If AI is given the power to control things, anything, the results can be disastrous. Do not let it happen unless significant improvements are made. \n\nI asked ChatGPT to do this:\n\nWhat is the maximum axial load on a 2” by 4” tube steel with a 1/8” wall thickness ignoring buckling?\n\nIt calculated the area to be 7.875 square inches where the correct answer is 1.5 square inches. \n\nThis resulted in an a calculated maximum axial load of 170,100 pounds where the answer should be more like 32,400 pounds. The ChatGPT answer is off by 525%. \n\nObviously, if AI was making decision and it can’t make calculations at this level, people and the environment and property might be severely harmed before we know that errors have been made.",
+          "authorDisplayName": "Viva Christo Rey!",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqOueGyiT5vHDb3Sr4O0bALto4VfCemifsKyFa5L9g=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCwqX6SL1cJMHzOd3HicpxZw",
+          "authorChannelId": { "value": "UCwqX6SL1cJMHzOd3HicpxZw" },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2023-04-03T22:06:59Z",
+          "updatedAt": "2023-04-03T22:06:59Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "Brqx1VdNZH-cQMiyFC5Q8N7eNys",
+    "id": "Ugz0NS6dwRptHLdwlQV4AaABAg",
+    "snippet": {
+      "videoId": "JTxsNm9IdYU",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "B3DbTtl6ySmA3nzQnMsQVo53-SM",
+        "id": "Ugz0NS6dwRptHLdwlQV4AaABAg",
+        "snippet": {
+          "videoId": "JTxsNm9IdYU",
+          "textDisplay": "This is my very first experience with ChatGPT, and it seems pretty amazing just thinking about several ideas I could use it for already.<br><br>Thank you for the video. I have a couple of questions I hope can be answered here. Towards the beginning of the video, you mentioned not using certain information (passwords) when entering data into the ChatGPT prompt area. I have two questions regarding this:<br><br>1. Is this because your information is being collected / stored somewhere when using ChatGPT?<br>2. Is it safe to enter a current resume to see how it can be improved?<br><br>Thanks again,<br>Marc",
+          "textOriginal": "This is my very first experience with ChatGPT, and it seems pretty amazing just thinking about several ideas I could use it for already.\n\nThank you for the video. I have a couple of questions I hope can be answered here. Towards the beginning of the video, you mentioned not using certain information (passwords) when entering data into the ChatGPT prompt area. I have two questions regarding this:\n\n1. Is this because your information is being collected / stored somewhere when using ChatGPT?\n2. Is it safe to enter a current resume to see how it can be improved?\n\nThanks again,\nMarc",
+          "authorDisplayName": "Marc D",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqMzGFIydIGnhz8cPsaQKVvZaIFCxgqzqb7OqQ=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCqR0H4uQOSn_DPxoBwAZCdA",
+          "authorChannelId": { "value": "UCqR0H4uQOSn_DPxoBwAZCdA" },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2023-04-03T18:33:44Z",
+          "updatedAt": "2023-04-03T18:33:44Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "ryJll-QfdEm6IrxMrX9Xn3Xg1lg",
+    "id": "UgyWcV2RCjVy4V7zXKN4AaABAg",
+    "snippet": {
+      "videoId": "JTxsNm9IdYU",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "5rNgW7PtW_Z4Ci0u2qzfxoUihDg",
+        "id": "UgyWcV2RCjVy4V7zXKN4AaABAg",
+        "snippet": {
+          "videoId": "JTxsNm9IdYU",
+          "textDisplay": "Thanks. Greate job",
+          "textOriginal": "Thanks. Greate job",
+          "authorDisplayName": "blant blant",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqMH22uepuiGFqSQy9YNX2DhVkLZlcALJ2_DJSyrsF5HnZ3MdkoEvrdB7Xow5kh5=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCxW_B5q9EYz7xFa3v1GauCQ",
+          "authorChannelId": { "value": "UCxW_B5q9EYz7xFa3v1GauCQ" },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2023-04-03T14:56:34Z",
+          "updatedAt": "2023-04-03T14:56:34Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  }
+]
