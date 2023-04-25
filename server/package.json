@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "dev": "nodemon index.js && node db.js"
+    "dev": "nodemon index.js"
   },
   "dependencies": {
     "dotenv": "^16.0.3",

@@ -1,13 +1,13 @@
 [
   {
     "kind": "youtube#commentThread",
-    "etag": "AEERgmCW4nf2t5fnsjT8fxseVB0",
+    "etag": "-M6dlBZWCHECIa6OAdDXgRl-XZo",
     "id": "UgwPk21AZMmciIEPE854AaABAg",
     "snippet": {
       "videoId": "JTxsNm9IdYU",
       "topLevelComment": {
         "kind": "youtube#comment",
-        "etag": "FcKX2w_xzBOeC3oThNk28ZANzYA",
+        "etag": "bPoaOwMPhfQ-A8yCyi9ZJxOgjho",
         "id": "UgwPk21AZMmciIEPE854AaABAg",
         "snippet": {
           "videoId": "JTxsNm9IdYU",
@@ -19,13 +19,43 @@
           "authorChannelId": { "value": "UCvM5YYWwfLwpcQgbRr68JLQ" },
           "canRate": true,
           "viewerRating": "none",
-          "likeCount": 188,
+          "likeCount": 189,
           "publishedAt": "2022-12-21T07:40:30Z",
           "updatedAt": "2022-12-21T07:40:30Z"
         }
       },
       "canReply": true,
       "totalReplyCount": 39,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "uLzdk6w-b8exKZHeY6VcD4-fh7Q",
+    "id": "UgzOP6yeYSsU4NdvkcF4AaABAg",
+    "snippet": {
+      "videoId": "JTxsNm9IdYU",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "srGAvVW_k-9MMlEJ90Xig9is_LM",
+        "id": "UgzOP6yeYSsU4NdvkcF4AaABAg",
+        "snippet": {
+          "videoId": "JTxsNm9IdYU",
+          "textDisplay": "Fantastic epic superb 🎉😅 Great help Adrian and team praises god bless 💯✌️🤩",
+          "textOriginal": "Fantastic epic superb 🎉😅 Great help Adrian and team praises god bless 💯✌️🤩",
+          "authorDisplayName": "Cj7’s gaming channel",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/fgX62bj8AtLdFO4tRT811aAxkC76R2xwP1y1607heBWOXlMbNY5HGqq1zonzgTAamHaBjXIS=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCIJcl6FnO7revZhrE1XlULQ",
+          "authorChannelId": { "value": "UCIJcl6FnO7revZhrE1XlULQ" },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2023-04-24T12:34:22Z",
+          "updatedAt": "2023-04-24T12:34:22Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
       "isPublic": true
     }
   },
@@ -562,36 +592,6 @@
           "likeCount": 0,
           "publishedAt": "2023-04-04T08:35:38Z",
           "updatedAt": "2023-04-04T08:35:38Z"
-        }
-      },
-      "canReply": true,
-      "totalReplyCount": 0,
-      "isPublic": true
-    }
-  },
-  {
-    "kind": "youtube#commentThread",
-    "etag": "cQf4FPkEy4C1l7zLdvxSjgjA5Tk",
-    "id": "Ugz1vSXUNn3p7jF-aKR4AaABAg",
-    "snippet": {
-      "videoId": "JTxsNm9IdYU",
-      "topLevelComment": {
-        "kind": "youtube#comment",
-        "etag": "uVDzc256yxUvR91VV-u-ZIvOcRg",
-        "id": "Ugz1vSXUNn3p7jF-aKR4AaABAg",
-        "snippet": {
-          "videoId": "JTxsNm9IdYU",
-          "textDisplay": "There is a lot of excitement about ChatGPT and other AI and how smart they are.  We are being told about how they can pass all kinds of college and professional exams. <br><br>Be aware that they sometimes give the wrong answer. If AI is given the power to control things, anything, the results can be disastrous. Do not let it happen unless significant improvements are made. <br><br>I asked ChatGPT to do this:<br><br>What is the maximum axial load on a 2” by 4” tube steel with a 1/8” wall thickness ignoring buckling?<br><br>It calculated the area to be 7.875 square inches where the correct answer is 1.5 square inches. <br><br>This resulted in an a calculated maximum axial load of 170,100 pounds where the answer should be more like 32,400 pounds. The ChatGPT answer is off by 525%. <br><br>Obviously, if AI was making decision and it can’t make calculations at this level, people and the environment and property might be severely harmed before we know that errors have been made.",
-          "textOriginal": "There is a lot of excitement about ChatGPT and other AI and how smart they are.  We are being told about how they can pass all kinds of college and professional exams. \n\nBe aware that they sometimes give the wrong answer. If AI is given the power to control things, anything, the results can be disastrous. Do not let it happen unless significant improvements are made. \n\nI asked ChatGPT to do this:\n\nWhat is the maximum axial load on a 2” by 4” tube steel with a 1/8” wall thickness ignoring buckling?\n\nIt calculated the area to be 7.875 square inches where the correct answer is 1.5 square inches. \n\nThis resulted in an a calculated maximum axial load of 170,100 pounds where the answer should be more like 32,400 pounds. The ChatGPT answer is off by 525%. \n\nObviously, if AI was making decision and it can’t make calculations at this level, people and the environment and property might be severely harmed before we know that errors have been made.",
-          "authorDisplayName": "Viva Christo Rey!",
-          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqOueGyiT5vHDb3Sr4O0bALto4VfCemifsKyFa5L9g=s48-c-k-c0x00ffffff-no-rj",
-          "authorChannelUrl": "http://www.youtube.com/channel/UCwqX6SL1cJMHzOd3HicpxZw",
-          "authorChannelId": { "value": "UCwqX6SL1cJMHzOd3HicpxZw" },
-          "canRate": true,
-          "viewerRating": "none",
-          "likeCount": 0,
-          "publishedAt": "2023-04-03T22:06:59Z",
-          "updatedAt": "2023-04-03T22:06:59Z"
         }
       },
       "canReply": true,
