@@ -1,5 +1,7 @@
 import mysql from "mysql2/promise";
+// import { OpenAIApi } from "openai";
 import dotenv from "dotenv";
+import { configuration, openai } from "./ai.js";
 
 dotenv.config();
 
@@ -9,6 +11,8 @@ const HOST = process.env.HOST;
 const USER = process.env.USER;
 const PASSWORD = process.env.PASSWORD;
 const DATABASE = process.env.DATABASE;
+
+// const openai = new OpenAIApi(configuration);
 
 async function create({ singleStoreConnection, comment }) {
   const [results] = await singleStoreConnection.execute(
@@ -61,4 +65,27 @@ async function main() {
   }
 }
 
-main();
+// main();
+
+// copy main and modify: create update db function
+
+async function updateDatabaseUsingGPT() {
+  let singleStoreConnection;
+  try {
+    singleStoreConnection = await mysql.createConnection({
+      host: HOST,
+      user: USER,
+      password: PASSWORD,
+      database: DATABASE,
+    });
+
+    console.log("You have successfully connected to SingleStore.");
+  } catch (err) {
+    console.error("ERROR", err);
+    process.exit(1);
+  } finally {
+    if (singleStoreConnection) {
+      await singleStoreConnection.end();
+    }
+  }
+}
